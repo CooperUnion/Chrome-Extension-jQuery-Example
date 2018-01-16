@@ -1,8 +1,4 @@
-Big Headline
+Sample Chrome Extension
 ============
 
-Less Large Headline
--------------------
-
-* A list item
-* Another list item with **bold** text
+Using JQuery
